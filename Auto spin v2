@@ -1,0 +1,2 @@
+local Victim = game.Players.arnold212121
+Victim:kick("you have been banned for hacking, play the game fairly next time")
